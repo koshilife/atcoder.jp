@@ -1,4 +1,4 @@
-# https://atcoder.jp/contests/abc200/tasks/abc201_d
+# https://atcoder.jp/contests/abc201/tasks/abc201_d
 
 # v2からの変更点 (TLEを回避するためにやったこと)
 # - game_map作る際に文字列比較を文字コードで判定する「+」=「43」: -300ms

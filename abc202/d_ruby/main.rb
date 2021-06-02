@@ -1,4 +1,4 @@
-# https://atcoder.jp/contests/abc200/tasks/abc202_d
+# https://atcoder.jp/contests/abc202/tasks/abc202_d
 # 公式解説を元に作成
 
 def main

@@ -1,4 +1,4 @@
-# https://atcoder.jp/contests/abc200/tasks/abc202_c
+# https://atcoder.jp/contests/abc202/tasks/abc202_c
 
 def main
   _ = gets
